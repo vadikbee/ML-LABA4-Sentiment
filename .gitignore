@@ -1,1 +1,5 @@
 /kp_train.csv
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+.streamlit/
